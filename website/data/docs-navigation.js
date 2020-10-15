@@ -144,6 +144,10 @@ export default [
             category: 'conversion',
             content: ['can', 'convert', 'try'],
           },
+          {
+            category: 'variable',
+            content: ['vault'],
+          },
         ],
       },
       'variables',
